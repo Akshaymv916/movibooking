@@ -1,0 +1,47 @@
+.slide {
+    margin-top: -65px;
+}
+.carousel-inner {
+    background: radial-gradient(#3a3a3a, black);
+}
+.carousel-inner img {
+    height: 600px;
+    margin: 0px auto;
+}
+
+.s1 {
+    background-image: url(../images/aa.jpeg);
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.s2 {
+    background-image: url(../images/baroz.jpg);
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.s3 {
+    background-image: url(../images/prremalu.jpg);
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.s4 {
+    background-image: url(../images/adu.jpg);
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo {
+    text-decoration: none;
+    color: white;
+}
+
